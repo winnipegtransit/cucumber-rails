@@ -1,3 +1,8 @@
+## [v1.0.2.transit1](https://github.com/cucumber/cucumber-rails/compare/v1.0.2...v1.0.3)
+
+### Bugfixes
+* Fixed tests using mixed DB access with multiple database connections. (#152 Doug Hiebert)
+
 ## [v1.0.2](https://github.com/cucumber/cucumber-rails/compare/v1.0.1...v1.0.2)
 
 ### Bugfixes
